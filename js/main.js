@@ -102,7 +102,7 @@ function loadGroupDetails(groupId) {
                 <div class="info-box">
                     <h3><i class="fas fa-user"></i> Contatti</h3>
                     <p>${group.contactPerson}</p>
-                    <p>Email: <a href="mailto:info@oratoriosantelena.it">info@oratoriosantelena.it</a></p>
+                    <p>Email: <a href="mailto:oratorio.santelena24@gmail.com">oratorio.santelena24@gmail.com</a></p>
                 </div>
             </div>
         </div>
