@@ -51,7 +51,6 @@ const groupsData = {
             "Incontri di spiritualità e preghiera",
             "Momenti di convivialità e festa"
         ],
-        image: "../giovani.JPG",
         contactPerson: "Referenti: Luca Bianchi e Sara Neri - 333 555 7890"
     }
 };
