@@ -45,6 +45,7 @@ const groupsData = {
             <div class="meeting-time">Orario: 21:00-22:30</div>
         </div>`,
         description: "Il gruppo giovani è un occasione per i ragazzi di intraprendere un percorso educativo ricco di esperienze; infatti durante gli incontri domenicali avranno modo di riflettere su sé stessi e su questioni che li riguardano da vicino; inoltre non mancheranno momenti di svago e di divertimento, necessari per consolidare i legami interpersonali tra di loro e con gli educatori. Poiché il gruppo educativo si svolge all’interno di un contesto parrocchiale, il nostro orizzonte di senso sarà orientato innanzitutto dalla ricerca della fede, il nostro filo rosso durante tutto l’anno pastorale.",
+        image: "../giovani.jpg",
         activities: [
             "Serate di formazione e dibattito",
             "Esperienze di volontariato e missioni",
