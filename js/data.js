@@ -3,7 +3,7 @@ const groupsData = {
         title: "Gruppo Medie",
         subtitle: "Scuola Secondaria di Primo Grado",
         schedule: "Domenica 15:00-17:00",
-        description: "Il gruppo medie é una realtà educativa in oratorio dedicata ai ragazzi dagli 11 ai 14 anni (1ª-3ª media) che vengono accompagnati in tutti gli incontri dai loro educatori.<br>L'obiettivo del percorso é quello di introdurre i ragazzi nel mondo oratoriano aiutandoli nello sviluppo di relazioni, principalmente di tre tipi:<br>•&nbsp;Con&nbsp;gli&nbsp;altri, attraverso i giochi e i momenti condivisi con i propri coetanei in uno spazio protetto e sicuro.<br>•&nbsp;Con&nbsp;Gesù, attraverso il vangelo, la preghiera e la frequentazione dell'oratorio.<br>•&nbsp;Con&nbsp;se&nbsp;stessi e il mondo attorno, attraverso le riflessioni e le condivisioni su svariati temi, oltre che gite e attività.<br>Ogni anno gli educatori si impegnano a stabilire un filone generale, da cui verranno dedotte le riflessioni e tutto il percorso educativo.<br>Gli incontri si svolgono:<br>•&nbsp;il&nbsp;venerdì&nbsp;dalle&nbsp;14: i ragazzi hanno la possibilità di pranzare in oratorio con gli educatori e successivamente di studiare insieme<br>•&nbsp;la&nbsp;domenica&nbsp;dalle&nbsp;15&nbsp;alle&nbsp;17<br>Tutto questo verrà approfondito maggiormente, e specificato, nella riunione di presentazione dell'anno.",
+        description: "Il gruppo medie é una realtà educativa in oratorio dedicata ai ragazzi dagli 11 ai 14 anni (1ª-3ª media) che vengono accompagnati in tutti gli incontri dai loro educatori.<br><br>L'obiettivo del percorso é quello di introdurre i ragazzi nel mondo oratoriano aiutandoli nello sviluppo di relazioni, principalmente di tre tipi:<br><br>•&nbsp;Con&nbsp;gli&nbsp;altri, attraverso i giochi e i momenti condivisi con i propri coetanei in uno spazio protetto e sicuro.<br>•&nbsp;Con&nbsp;Gesù, attraverso il vangelo, la preghiera e la frequentazione dell'oratorio.<br>•&nbsp;Con&nbsp;se&nbsp;stessi e il mondo attorno, attraverso le riflessioni e le condivisioni su svariati temi, oltre che gite e attività.<br><br>Ogni anno gli educatori si impegnano a stabilire un filone generale, da cui verranno dedotte le riflessioni e tutto il percorso educativo.<br><br>Gli incontri si svolgono:<br>•&nbsp;il&nbsp;venerdì&nbsp;dalle&nbsp;14: i ragazzi hanno la possibilità di pranzare in oratorio con gli educatori e successivamente di studiare insieme<br>•&nbsp;la&nbsp;domenica&nbsp;dalle&nbsp;15&nbsp;alle&nbsp;17<br><br>Tutto questo verrà approfondito maggiormente, e specificato, nella riunione di presentazione dell'anno.",
         activities: [
             "Incontri settimanali la domenica",
             "Attività ricreative e giochi di gruppo",
@@ -51,6 +51,6 @@ const groupsData = {
             "Incontri di spiritualità e preghiera",
             "Momenti di convivialità e festa"
         ],
-        contactPerson: "Per info: Elena Manzoni "
+        contactPerson: "Per info: Segreteria Oratorio 351 483 7457 "
     }
 };
