@@ -46,10 +46,9 @@ const groupsData = {
         description: "Il gruppo giovani è molto variegato: partecipano ragazzi dai 19 anni in su. Ogni mese ci ritagliamo un momento più disteso per stare tra di noi, cominciando con la Messa della domenica alle 18, continuando con una Lectio tenuta da don Massimo e con una cena condivisa, durante la quale ci raccontiamo pensieri ed esperienze vissute. Durante gli altri incontri, sempre di domenica sera, ma alle 21, ci confrontiamo su temi di attualità, aiutati anche da testimonianze esterne. Siamo tutti in cammino. Se avete domande, non esitate a contattarci, vi aspettiamo!",
         image: "../giovani.jpg",
         activities: [
-            "Serate di formazione e dibattito",
-            "Esperienze di volontariato e missioni",
+            "Serate di Lectio e condivisione",
             "Incontri di spiritualità e preghiera",
-            "Momenti di convivialità e festa"
+            "Momenti di convivialità"
         ],
         contactPerson: "Per info: Segreteria Oratorio 351 483 7457 "
     }
