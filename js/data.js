@@ -41,7 +41,7 @@ const groupsData = {
                 <div class="meeting-date">19 aprile</div>
                 <div class="meeting-date">17 maggio</div>
             </div>
-            <div class="meeting-time">Orario: 21:00-22:30</div>
+            <div class="meeting-time">Orario: 18:00 con la Messa - 22:00</div>
         </div>`,
         description: "Il gruppo giovani è molto variegato: partecipano ragazzi dai 19 anni in su. Ogni mese ci ritagliamo un momento più disteso per stare tra di noi, cominciando con la Messa della domenica alle 18, continuando con una Lectio tenuta da don Massimo e con una cena condivisa, durante la quale ci raccontiamo pensieri ed esperienze vissute. Durante gli altri incontri, sempre di domenica sera, ma alle 21, ci confrontiamo su temi di attualità, aiutati anche da testimonianze esterne. Siamo tutti in cammino. Se avete domande, non esitate a contattarci, vi aspettiamo!",
         image: "../giovani.jpg",
